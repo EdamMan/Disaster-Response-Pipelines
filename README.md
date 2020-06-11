@@ -41,4 +41,4 @@ First download the zip file and extract it . After that run the following comman
   - Builds a text processing and machine learning pipeline
   - Outputs results on the test set
 
-Github link : https://github.com/EdamMan/Disaster-Response-Pipeline
+Github link : https://github.com/EdamMan/Disaster-Response-Pipelines
