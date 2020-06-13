@@ -1,20 +1,20 @@
-Disaster Response Pipelines
+# Disaster Response Pipelines
 
-Required libraries
+## Required libraries
 
-- Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
-- Natural Language Process Libraries: NLTK
-- Python
-- SQLlite Database Libraqries: SQLalchemy
-- Web App and Data Visualization: Flask, Plotly
+* Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
+* Natural Language Process Libraries: NLTK
+* Python
+* SQLlite Database Libraqries: SQLalchemy
+* Web App and Data Visualization: Flask, Plotly
 
-Motivation
+## Motivation
 
 In this project i have analyzed disaster responses data given by udacity to build a model for an API that classifies disaster messages.
 
 Executing Program:
-
 1. Run the following commands in the project's root directory to set up your database and model.
+First download the zip file and extract it . After that run the following command.
 
     - To run ETL pipeline that cleans data and stores in database
         'python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/InsertDatabaseName.db'
